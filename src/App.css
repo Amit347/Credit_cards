@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+}
+
+form {
+  text-align: center;
+
+  margin-top: 2px;
+   {
+    transform: rotate(0 deg);
+  }
+  to {
+    transform: rotate(180 deg);
+  }
+}
+
+input {
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  line-height: 2;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+}
